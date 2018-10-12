@@ -98,6 +98,4 @@ Congrats!  You just completed the standard *fork -> clone -> edit -> pull reques
 
 
 
-You could join our slack team in case you need any help or have any questions. [Checkout our slack page](https://iiitkalyanifosc.slack.com/messages/CA03WCVQE/).
-
-Now let's get you started with contributing to other projects. We've compiled a list of projects with easy issues you can get started on.
+You could join our zulip organisation, in case you need any help or have any questions. [IIITKalyaniFOSC on Zulip](https://iiitkalyanifosc.zulipchat.com/).
