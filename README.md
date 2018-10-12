@@ -1,24 +1,18 @@
-![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103) ![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg) ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
 
-## Details
+## Hello Learners!
 
-Hi there, if you are reading this then probably you are new to open source and looking for some issues to contribute to.  
-You can start by contributing to this awesome list, follow these simple steps to make your first successful PR.  
+Hello learners, learning how to use git and github, and making your first contribution can be a daunting task (We all have been there :smile:). We have created this repository to help you get started. You can learn and start contributing using this awesome guide for first timers. Just follow the steps given below.
 
-## Steps:
+# Steps:
 
-1. Installation of required tools:
-* git
-* any IDE of your choice (for ex. sublime text and atom)
-
-### Installing git:
+## 1. Installing Git:
 
 - Ubuntu:  `sudo apt-get install git`
 - Windows: [Download](https://git-scm.com/download/win)
 - Mac: [Download](https://git-scm.com/download/mac)
 
-
-# First Contributions
+## 2. Making your first contributions
 
 It's hard. It's always hard the first time you do something. Especially when you are collaborating, making mistakes isn't a comfortable thing. We wanted to simplify the way new open-source contributors learn & contribute for the first time.
 
@@ -54,7 +48,7 @@ where "url you just copied" (without the quote marks) is the url to this reposit
 
 For example:
 ```
-git clone https://github.com/this-is-you/first-contributions.git
+git clone https://github.com/this-is-you/first-contribution-guide/
 ```
 where `this-is-you` is your GitHub username. Here you're copying the contents of the first-contributions repository in GitHub to your computer.
 
@@ -63,7 +57,7 @@ where `this-is-you` is your GitHub username. Here you're copying the contents of
 Change to the repository directory on your computer (if you are not already there):
 
 ```
-cd first-contributions
+cd first-contribution-guide
 ```
 Now create a branch using the `git checkout` command:
 ```
@@ -72,7 +66,7 @@ git checkout -b <add-your-new-branch-name>
 
 For example:
 ```
-git checkout -b add-alonzo-church
+git checkout -b add-anubhav-patel
 ```
 (The name of the branch does not need to have the word *add* in it, but it's a reasonable thing to include because the purpose of this branch is to add your name to a list.)
 
@@ -100,7 +94,7 @@ Soon I'll be merging all your changes into the master branch of this project. Yo
 
 ## Where to go from here?
 
-Congrats!  You just completed the standard _fork -> clone -> edit -> PR_ workflow that you'll encounter often as a contributor!
+Congrats!  You just completed the standard *fork -> clone -> edit -> pull request* workflow that you'll encounter often as a contributor!
 
 
 
